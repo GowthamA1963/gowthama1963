@@ -1,85 +1,67 @@
-# Hi there, I'm Gowtham 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gowtham-ammanamanchi-9b25ba221/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:gowthamofficial963@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://gowthama1963.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
 <div align="center">
-  
-### Robotics Engineer | ROS2 Developer | Open-Source Contributor
-
-🎯 Building intelligent robots that move with purpose — integrating **mechanics, electronics, and code** into real-world autonomy
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-ammanamanchi-9b25ba221/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamofficial963@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gowthama1963.github.io/)
-
+  <img src="https://komarev.com/ghpvc/?username=GowthamA1963&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
----
-
-## 🚀 About Me
-
-- 🤖 Passionate about **Mobile Robotics**, **Navigation**, **RMF**, and **SLAM**
-- 💻 Currently mastering **ROS2**, **Perception**, **Control Systems**, & **Embedded Systems**
-- 🧑‍💻 Active contributor to open-source robotics projects and automation tools
-- 🔍 Interested in: Multi-robot Fleet Management, Mobile Robotics, and Robotic Perception
-
----
-
-## 🛠 Tech Stack
-
-### Robotics & Middleware
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Open RMF](https://img.shields.io/badge/Open_RMF-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Robotics Core Skills
-![SLAM](https://img.shields.io/badge/SLAM-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
-![Path Planning](https://img.shields.io/badge/Path_Planning-4ECDC4?style=for-the-badge&logo=route&logoColor=white)
-![Control Systems](https://img.shields.io/badge/Control_Systems-95E1D3?style=for-the-badge&logo=speedtest&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Embedded Systems & Hardware
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🤝 Let's Collaborate!
-
-Have an idea related to **robotics**, **navigation**, **perception**, or **multi-robot systems**?  
-Let's build something amazing together! 🚀
-
-<div align="center"
-
-### 💬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-ammanamanchi-9b25ba221/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamofficial963@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gowthama1963.github.io/)
-
-</div>
-
----
+<h1 align="center">
+  Hi there, I'm Gowtham
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div align="center">
-
-### 💭 Philosophy
-
-*"Robotics isn't just machines — it's collaboration between disciplines,*  
-*like a symphony coming alive."*
-
-
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Robotics Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :robot: Working on mobile robotics projects and contributing to ROS2-based autonomous systems
+- :seedling: Exploring Multi-robot Fleet Management and Advanced Navigation techniques
+- :zap: In my free time, I work on robotics challenges and read research papers on SLAM and perception
+- :telescope: Building intelligent robots that integrate mechanics, electronics, and code into real-world autonomy
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gowtham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-ammanamanchi-9b25ba221/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ros-infrastructure/artwork/raw/master/ros_logo.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="Gazebo" alt="Gazebo" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GowthamA1963&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamA1963&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
