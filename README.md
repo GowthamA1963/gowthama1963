@@ -19,7 +19,7 @@
 - 🤖 Passionate about **Mobile Robotics**, **Navigation**, **RMF**, and **SLAM**
 - 💻 Currently mastering **ROS2**, **Perception**, **Control Systems**, & **Embedded Systems**
 - 🧑‍💻 Active contributor to open-source robotics projects and automation tools
-- 🔍 Interested in: Multi-robot Fleet Management, Mobile Robotics and Robotic Perception 
+- 🔍 Interested in: Multi-robot Fleet Management, Mobile Robotics, and Robotic Perception
 
 ---
 
@@ -61,21 +61,13 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GowthamA1963)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GowthamA1963&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamA1963&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamA1963&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-
-## ⚡ Fun Facts
-
-- ♞ Chess enthusiast — love the strategic thinking it brings
-- 🏋️ On a personal fitness journey, improving every day
-- ✍️ I write about robotics because **sharing = learning**
-- 🤝 Always excited to collaborate on innovative robotics projects
-
 ---
 
 ## 🤝 Let's Collaborate!
@@ -83,13 +75,13 @@
 Have an idea related to **robotics**, **navigation**, **perception**, or **multi-robot systems**?  
 Let's build something amazing together! 🚀
 
-<div align="center">
+<div align="center"
 
 ### 💬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-ammanamanchi-9b25ba221/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamofficial963@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gowthama1963.github.io/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-ammanamanchi-9b25ba221/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamofficial963@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gowthama1963.github.io/)
 
 </div>
 
@@ -102,6 +94,6 @@ Let's build something amazing together! 🚀
 *"Robotics isn't just machines — it's collaboration between disciplines,*  
 *like a symphony coming alive."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=GowthamA1963&color=blueviolet&style=for-the-badge)
 
 </div>
