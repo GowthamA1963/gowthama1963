@@ -18,9 +18,8 @@
 
 - 🤖 Passionate about **Mobile Robotics**, **Navigation**, **RMF**, and **SLAM**
 - 💻 Currently mastering **ROS2**, **Perception**, **Control Systems**, & **Embedded Systems**
-- 🌍 Goal: Pursue **Masters in Robotics** in Germany (Winter 2027)
 - 🧑‍💻 Active contributor to open-source robotics projects and automation tools
-- 🔍 Interested in: Multi-robot coordination, behavior planning, and decision making
+- 🔍 Interested in: Multi-robot Fleet Management, Mobile Robotics and Robotic Perception 
 
 ---
 
