@@ -16,10 +16,8 @@
 
 ## 🚀 About Me
 
-- 🤖 Passionate about **Mobile Robotics**, **Navigation**, **RMF**, and **SLAM**
-- 💻 Currently mastering **ROS2**, **Perception**, **Control Systems**, & **Embedded Systems**
-- 🧑‍💻 Active contributor to open-source robotics projects and automation tools
-- 🔍 Interested in: Multi-robot Fleet Management, Mobile Robotics, and Robotic Perception
+- 🤖 Passionate about **Mobile Robotics**, **Navigation**, **Open RMF**, and **SLAM** , **Embedded Systems** & **Robot Perception**
+- 🔍 Interested in: Embedded Systems Development, Mathematics and anything that's **INTERESTING ENOUGH**
 
 ---
 
