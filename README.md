@@ -61,50 +61,13 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GowthamA1963)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-```cpp
-class RoboticsEngineer {
-private:
-    std::vector<std::string> current_projects = {
-        "Multi-robot fleet coordination with RMF",
-        "Advanced Nav2 behavior tree implementations",
-        "Real-time SLAM and mapping optimization"
-    };
-    
-public:
-    void master_robotics() {
-        while (learning) {
-            code();
-            build();
-            test();
-            iterate();
-        }
-    }
-};
-```
-
----
-
-## 📝 Latest Articles & Notes
-
-> 🚧 Coming soon... Stay tuned for deep dives into:
-> - ROS2 Navigation Stack Best Practices
-> - Multi-Robot Systems Architecture
-> - SLAM Algorithms Explained
-> - Embedded Systems for Robotics
-
----
 
 ## ⚡ Fun Facts
 
