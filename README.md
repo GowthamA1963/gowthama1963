@@ -57,19 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GowthamA1963&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamA1963&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamA1963&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
----
-
 ## 🤝 Let's Collaborate!
 
 Have an idea related to **robotics**, **navigation**, **perception**, or **multi-robot systems**?  
@@ -94,6 +81,5 @@ Let's build something amazing together! 🚀
 *"Robotics isn't just machines — it's collaboration between disciplines,*  
 *like a symphony coming alive."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GowthamA1963&color=blueviolet&style=for-the-badge)
 
 </div>
