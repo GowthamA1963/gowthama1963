@@ -82,6 +82,5 @@ Let's build something amazing together! 🚀
 *"Robotics isn't just machines — it's collaboration between disciplines,*  
 *like a symphony coming alive."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GowthamA1963&color=blueviolet&style=for-the-badge)
 
 </div>
